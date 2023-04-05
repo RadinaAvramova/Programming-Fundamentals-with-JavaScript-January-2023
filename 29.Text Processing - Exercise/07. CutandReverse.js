@@ -1,0 +1,4 @@
+
+
+cutAndReceive('tluciffiDsIsihTgnizamAoSsIsihT');
+cutAndReceive('sihToDtnaCuoYteBIboJsihTtAdooGoSmI');

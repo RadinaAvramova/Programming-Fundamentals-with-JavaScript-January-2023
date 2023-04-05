@@ -1,0 +1,4 @@
+
+
+replaceRepeatingChars('aaaaabbbbbcdddeeeedssaa');
+replaceRepeatingChars('qqqwerqwecccwd')
