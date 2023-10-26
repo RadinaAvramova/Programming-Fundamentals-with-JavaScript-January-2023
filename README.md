@@ -1,19 +1,15 @@
 # Programming Fundamentals with JavaScript
- 
-За курса:
 
-Курсът разглежда фундаментални концепции в програмирането, които са основа за ефективното и качествено обучение в професионалните модули. Надграждих знанията, придобити в курса Programming Basics и започнах да използвам по-сложни похвати и структури от програмирането като: масиви, листове, обекти и класове. Изучих допълнителни технологии, необходими на всеки един софтуерен разработчик, като HTML и CSS, HTTP, побитови операции и други. Разглеждах основите на web разработката, както и един от най-разпространените технологии и инструменти.
+The course covers fundamental concepts in programming that are the basis for effective and quality learning in the professional modules. Students build on the knowledge gained in the Programming Basics course and begin to use more complex programming techniques and structures such as: arrays, lists, objects and classes. Additional technologies needed by any software developer are studied, such as HTML and CSS, HTTP, bitwise operations, and more. The fundamentals of web development are explored, as well as one of the most common technologies and tools, and the course successfully builds students' awareness of upcoming professional modules and the knowledge they will gain from them to become successful software developers.
 
-Умения, които придобиx:
+Acquired skills :
 
--Боравене със стандартната функционалност на програмния език
+ - Handling standard programming language functionality
 
--Работа с линейни структури от данни
+ - Working with linear data structures
 
--Разбиране на взаимовръзката между различни IT концепции
+ - Understanding the interrelationship between different IT concepts
 
--Анализ на проблеми и редуциране до компютърно-изпълними стъпки
+ - Analyzing problems and reducing them to computer-executable steps
 
--Базови умения за работа с HTML и CSS
-
-Преподаватели: Виктор Казаков, Ивайло Кенов и Тодор Стоянов
+ - Basic HTML and CSS skills
